@@ -1,0 +1,23 @@
+.carousel-caption {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50%;
+  font-size: large;
+}
+
+.joinbutton {
+  background-color: #2460d0;
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 3px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.joinbutton:hover {
+  background-color: #0d2364;
+}
